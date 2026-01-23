@@ -76,7 +76,7 @@ D. 选项内容
 - 匀变速直线运动:#匀变速直线运动公式的理解，#匀变速直线运动公式的应用，#匀变速直线运动的推论,#$$\Delta x=at^2$$公式的运用,#等时间间隔比值的运用,#等距离间隔比值的运用,#自由落体,#竖直上抛
 …………
 
-{**知识点部分请务必使用文件`references/knowledge-tag.md`中的内容**}
+{**知识点部分请务必使用文件`.claude/skills/physics-problem-fomatter/references/knowledge-tag.md`中的内容**}
 
 ## 难度标准
 
