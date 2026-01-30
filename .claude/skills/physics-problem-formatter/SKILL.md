@@ -69,16 +69,33 @@ D. 选项内容 | **若选项中有图片则为:![]{https://physics-image-139130
 
 ## 图片url规则
 
+固定字段：https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{图片产生的年月}-{章节号}-{三位的题目序号}
+例如第一题则序号为001，第二题为002以此类推
+
 ### 题目中图片url规则
+
+图片如果出现在题干中则url命名格式为：https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-{题目序号}-question.png}
 
 ### 题目中多个图片url规则
 
+如果同一题题干中有多张图片，除第一张外，其余需在{题目序号}后添加.{递增的序号}
+例如，第一道题目的题干有两张图片，则第一张图片url格式为https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-001-question.png}
+题干中第二张图片url为https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-001.1-question.png}
+
 ### 题目选项为图片的url规则
+
+有些题目中选项是图片。则需在{题目序号}后添加.{对应的选项}
+例如，第一题A选项为一张图片，则该图片url为https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-001.A-question.png}
 
 ### 解析中图片url规则
 
+图片如果出现在题目解析中则url命名格式为：https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-{题目序号}-analysis.png}
+
 ### 解析中多个图片url规则
 
+如果同一题的解析中有多张图片，除第一张外，其余需在{题目序号}后添加.{递增的序号}
+例如，一道题目的解析有两张图片，则第一张图片url格式为https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-001-analysis.png}
+题干中第二张图片url为https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-001.1-analysis.png}
 
 ## ID 命名规则
 
@@ -86,7 +103,7 @@ D. 选项内容 | **若选项中有图片则为:![]{https://physics-image-139130
 
 | 部分 | 说明 | 示例 |
 |------|------|------|
-| P | 物理学科标识 | P |
+| P | 物理学科标识（固定） | P |
 | YYYY-MM | 录入年月 | 2026-01 |
 | 章节号 | 对应 knowledge-tags.md 中的章节 | 1.1, 2.1, 5.3 |
 | 题目序号 | 三位数字，从 001 开始 | 001, 012, 099 |
