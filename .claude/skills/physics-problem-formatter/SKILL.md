@@ -67,7 +67,7 @@ D. 选项内容 | **若选项中有图片则为:![]{https://physics-image-139130
 
 ---
 
-## **图片url规则
+## 图片url规则
 
 固定字段：https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{图片产生的年月}-{章节号}-{三位的题目序号}
 例如第一题则序号为001，第二题为002以此类推
@@ -95,7 +95,7 @@ D. 选项内容 | **若选项中有图片则为:![]{https://physics-image-139130
 
 如果同一题的解析中有多张图片，除第一张外，其余需在{题目序号}后添加.{递增的序号}
 例如，一道题目的解析有两张图片，则第一张图片url格式为https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-001-analysis.png}
-解析中第二张图片url为https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-001.1-analysis.png}**
+解析中第二张图片url为https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-{YYYY-MM}-{章节号}-001.1-analysis.png}
 
 ## ID 命名规则
 
