@@ -6,7 +6,7 @@
 **难度**：0.9
 **题型**：单选题
 **题目描述**：(2017·浙江4月·4)如图所示，拿一个长约1.5m的玻璃筒，一端封闭，另一端有开关，把金属片和小羽毛放到玻璃筒里。把玻璃筒倒立过来，观察它们下落的情况。然后把玻璃筒里的空气抽出，再把玻璃筒倒立过来，再次观察它们下落的情况。下列说法正确的是
-![玻璃筒实验装置图](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-001-question.png)
+![玻璃筒实验装置图](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-001-question.png)
 **选项**：
 A. 玻璃筒充满空气时，金属片和小羽毛下落一样快
 B. 玻璃筒充满空气时，金属片和小羽毛均做自由落体运动
@@ -97,7 +97,7 @@ D. 1.4s
 **难度**：0.7
 **题型**：单选题
 **题目描述**：(2015·山东·14)距地面高5m的水平直轨道上A、B两点相距2m，在B点用细线悬挂一小球，离地高度为 $$h$$，如图所示。小车始终以 $$4\text{m/s}$$ 的速度沿轨道匀速运动，经过A点时将随车携带的小球由轨道高度自由卸下，小车运动至B点时细线被轧断，最后两球同时落地。不计空气阻力，取重力加速度的大小 $$g = 10\text{m/s}^2$$。可求得 $$h$$ 等于
-![小车轨道示意图](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-007-question.png)
+![小车轨道示意图](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-007-question.png)
 **选项**：
 A. 1.25m
 B. 2.25m
@@ -184,10 +184,10 @@ D. 六个
 **题型**：单选题
 **题目描述**：(1994·全国·1)将物体竖直向上抛出后，能正确表示其速率 $$v$$ 随时间 $$t$$ 的变化关系的图线是
 **选项**：
-A. ![选项A](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-013.A-question.png)
-B. ![选项B](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-013.B-question.png)
-C. ![选项C](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-013.C-question.png)
-D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-013.D-question.png)
+A. ![选项A](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-013.A-question.png)
+B. ![选项B](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-013.B-question.png)
+C. ![选项C](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-013.C-question.png)
+D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-013.D-question.png)
 **答案**：D
 **解析**：物体做竖直上抛运动，在上升过程中，由 $$v_t = v_0 - gt$$ 知，速率线性减小；上升到最高点时 $$v_t = 0$$；然后再做自由落体运动，有 $$v_t = gt$$，速率线性增大。故D正确。
 
@@ -199,10 +199,10 @@ D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.c
 **题型**：单选题
 **题目描述**：(1980·全国·6)物体竖直上抛后又落向地面，设向上的速度为正，它在整个运动过程中速度 $$v$$ 跟时间 $$t$$ 的关系是
 **选项**：
-A. ![选项A](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-014.A-question.png)
-B. ![选项B](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-014.B-question.png)
-C. ![选项C](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-014.C-question.png)
-D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-014.D-question.png)
+A. ![选项A](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-014.A-question.png)
+B. ![选项B](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-014.B-question.png)
+C. ![选项C](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-014.C-question.png)
+D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-014.D-question.png)
 **答案**：B
 **解析**：A图表示物体先向上匀减速运动，后向上匀加速运动，不符合物体的实际运动情况，故A错误；B图表示物体先向上做匀减速直线运动，后向下做匀加速直线运动，加速度不变，故B正确；C图表示物体先向下做匀减速运动，后向上做匀加速运动，不符合物体的实际运动情况，故C错误；D图表示速度均为正值，表示物体速度方向不变，不符合物体的实际运动情况，故D错误。
 
@@ -214,10 +214,10 @@ D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.c
 **题型**：单选题
 **题目描述**：(1988·全国·6)将一物体以某一初速度竖直上抛，在下列四幅图中，哪一幅能正确表示物体在整个运动过程中的速率 $$v$$ 与时间 $$t$$ 的关系(不计空气阻力)
 **选项**：
-A. ![选项A](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-015.A-question.png)
-B. ![选项B](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-015.B-question.png)
-C. ![选项C](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-015.C-question.png)
-D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-015.D-question.png)
+A. ![选项A](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-015.A-question.png)
+B. ![选项B](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-015.B-question.png)
+C. ![选项C](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-015.C-question.png)
+D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-015.D-question.png)
 **答案**：B
 **解析**：小球运动的规律为 $$v = v_0 - gt$$，所以速率先线性变小后线性变大，故B正确。
 
@@ -229,10 +229,10 @@ D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.c
 **题型**：单选题
 **题目描述**：(2023·广东·3)铯原子喷泉钟是定标"秒"的装置。在喷泉钟的真空系统中，可视为质点的铯原子团在激光的推动下，获得一定的初速度。随后激光关闭，铯原子团仅在重力的作用下做竖直上抛运动，到达最高点后再做一段自由落体运动。取竖直向上为正方向。下列可能表示激光关闭后铯原子团速度 $$v$$ 或加速度 $$a$$ 随时间 $$t$$ 变化的图像是
 **选项**：
-A. ![选项A](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-016.A-question.png)
-B. ![选项B](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-016.B-question.png)
-C. ![选项C](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-016.C-question.png)
-D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-016.D-question.png)
+A. ![选项A](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-016.A-question.png)
+B. ![选项B](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-016.B-question.png)
+C. ![选项C](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-016.C-question.png)
+D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-016.D-question.png)
 **答案**：D
 **解析**：铯原子团先做竖直上抛运动，后做自由落体运动，加速度不变，$$v-t$$ 图像是一条倾斜的直线，故AB错误；取竖直向上为正方向，加速度方向一直竖直向下，加速度的数值一直为负值，故C错误，D正确。
 
@@ -243,7 +243,7 @@ D. ![选项D](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.c
 **难度**：0.6
 **题型**：单选题
 **题目描述**：(2011·山东·18)如图所示，将小球 $$a$$ 从地面以初速度 $$v_0$$ 竖直上抛的同时，将另一相同质量的小球 $$b$$ 从距地面 $$h$$ 处由静止释放，两球恰在 $$\frac{h}{2}$$ 处相遇(不计空气阻力)。则
-![竖直上抛与自由落体相遇示意图](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-017-question.png)
+![竖直上抛与自由落体相遇示意图](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-017-question.png)
 **选项**：
 A. 两球同时落地
 B. 相遇时两球速度大小相等
@@ -274,7 +274,7 @@ D. $$\frac{h}{v}$$
 **难度**：0.6
 **题型**：多选题
 **题目描述**：(2013·大纲卷·19)(多选)将甲、乙两小球先后以同样的速度在距地面不同高度处竖直向上抛出，抛出时间相隔2s，它们运动的 $$v-t$$ 图像分别如直线甲、乙所示。则
-![甲乙v-t图像](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-02-1.3-019-question.png)
+![甲乙v-t图像](https://physics-image-1391307169.cos-website.ap-nanjing.myqcloud.com/P-2026-01-1.3-019-question.png)
 **选项**：
 A. $$t = 2\text{s}$$ 时，两球高度相差一定为40m
 B. $$t = 4\text{s}$$ 时，两球相对于各自抛出点的位移相等
